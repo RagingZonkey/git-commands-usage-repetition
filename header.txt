@@ -1,2 +1,4 @@
 Hi, this file contains no important stuff
 Changes made in the 'main' branch
+Purposeful changes made to test out possibilities
+of 'git rebase' command
